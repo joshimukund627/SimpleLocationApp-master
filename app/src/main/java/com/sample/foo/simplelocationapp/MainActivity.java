@@ -36,7 +36,7 @@ public class MainActivity extends Activity
 
     //new code
 
-	//Cool 1
+	//Cool 
 
     Button btngetnetgpslocation,btngetfusedlocation,btnbestlocation;
     
