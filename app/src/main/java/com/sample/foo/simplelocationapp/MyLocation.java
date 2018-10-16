@@ -24,7 +24,9 @@ public class MyLocation
     LocationManager lm; 
     LocationResult locationResult; 
     boolean gps_enabled=false; 
-    boolean network_enabled=false; 
+    boolean network_enabled=false;
+
+    //cool1
  
     public boolean getLocation(Context context, LocationResult result) 
     { 
