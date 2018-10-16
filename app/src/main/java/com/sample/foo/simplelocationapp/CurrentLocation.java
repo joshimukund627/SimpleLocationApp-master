@@ -11,6 +11,7 @@ public class CurrentLocation extends Location implements Serializable  {
 	public CurrentLocation(Location l) {
 		super(l);
 		this.location = l;
+		//new code
 	}
 
 }
