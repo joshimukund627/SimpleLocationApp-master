@@ -36,6 +36,8 @@ public class MainActivity extends Activity
 
     //new code
 
+	//Cool
+
     Button btngetnetgpslocation,btngetfusedlocation,btnbestlocation;
     
 	@Override
