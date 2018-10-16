@@ -38,6 +38,8 @@ public class FusedLocation implements
     Location mCurrentLocation;
     String mLastUpdateTime;
 
+    //cool
+
     protected void createLocationRequest() 
     {
         mLocationRequest = new LocationRequest();
