@@ -35,7 +35,7 @@ public class MainActivity extends Activity
     Location gpsnetwroklocation,fusedlocation;
 
     //new code
-
+	//VISHAL
 	//Cool 67
 
     Button btngetnetgpslocation,btngetfusedlocation,btnbestlocation;
