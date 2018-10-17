@@ -45,7 +45,7 @@ public class MainActivity extends Activity
 	
 	//Mukund Ramdas Joshi
 
-	//ayyaz
+	//ayyaz khan
 
     Button btngetnetgpslocation,btngetfusedlocation,btnbestlocation;
     
