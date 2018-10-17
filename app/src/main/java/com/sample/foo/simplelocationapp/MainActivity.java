@@ -59,6 +59,8 @@ public class MainActivity extends Activity
 
 	//new changes made...
 
+	//checkout with branch
+
     Button btngetnetgpslocation,btngetfusedlocation,btnbestlocation;
     
 	@Override
