@@ -36,9 +36,10 @@ public class MainActivity extends Activity
 
     //new code
 
-	// Mukund Joshi maC
+	// Mukund Joshi mac
 
 	//VISHAL
+
 	//Cool 67
 
     Button btngetnetgpslocation,btngetfusedlocation,btnbestlocation;
