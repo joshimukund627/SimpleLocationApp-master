@@ -23,6 +23,8 @@ public class FusedLocation implements
         GoogleApiClient.ConnectionCallbacks,
         GoogleApiClient.OnConnectionFailedListener {
 
+    //Comment added by VISHAL.
+
     private static final String TAG = "LocationActivity";
     
     LocationResult locationResult;
