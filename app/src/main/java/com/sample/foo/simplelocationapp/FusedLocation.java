@@ -25,6 +25,8 @@ public class FusedLocation implements
 
     //Comment added by VISHAL.
 
+    //Mukund joshi
+
     private static final String TAG = "LocationActivity";
     
     LocationResult locationResult;
