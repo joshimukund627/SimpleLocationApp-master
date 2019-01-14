@@ -48,6 +48,20 @@ public class MainActivity extends Activity
 
 	//ayyaz khan
 
+	//branch changes
+
+	//branch change 2
+
+	//akshay...
+
+    //account changed
+
+	//changes with new branch...
+
+	//new changes made...
+
+	//added by vishal...
+
     Button btngetnetgpslocation,btngetfusedlocation,btnbestlocation;
     
 	@Override
