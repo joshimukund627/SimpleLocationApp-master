@@ -34,6 +34,8 @@ public class MainActivity extends Activity
     
     Location gpsnetwroklocation,fusedlocation;
 
+    private String cool;
+    
     //new code
 
 	//Mukund Joshi mac
