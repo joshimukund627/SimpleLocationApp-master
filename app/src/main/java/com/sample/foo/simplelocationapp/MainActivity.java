@@ -59,6 +59,8 @@ public class MainActivity extends Activity
 
 	//new changes made...
 
+	//added by vishal...
+
     Button btngetnetgpslocation,btngetfusedlocation,btnbestlocation;
     
 	@Override
