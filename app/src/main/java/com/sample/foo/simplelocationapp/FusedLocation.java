@@ -31,6 +31,8 @@ public class FusedLocation implements
 
     //cool
 
+    //vishallll
+
     private static final String TAG = "LocationActivity";
     
     LocationResult locationResult;
